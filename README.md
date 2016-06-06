@@ -7,12 +7,12 @@ This image is updated via pull requests to the `secangkirkopipanas/docker-ubuntu
 ## Supported tags for Oracle JDK
 - `latest.oracle-jdk8` [(master/Dockerfile)]
 - `16.04.oracle-jdk8` [(16.04.oracle-jdk8/Dockerfile)]
-- `16.04.oracle-jdk7` [(15.10.oracle-jdk7/Dockerfile)]
+- `16.04.oracle-jdk7` [(16.04.oracle-jdk7/Dockerfile)]
 
 ## Supported tags for OpenJDK
 - `latest.openjdk8` [(latest.openjdk8/Dockerfile)]
 - `16.04.openjdk8` [(16.04.openjdk8/Dockerfile)]
-- `16.04.openjdk7` [(15.10.openjdk7/Dockerfile)]
+- `16.04.openjdk7` [(16.04.openjdk7/Dockerfile)]
 
 ## What is Ubuntu?
 Ubuntu is a Debian-based Linux operating system, with Unity as its default desktop environment. It is based on free software and named after the Southern African philosophy of ubuntu (literally, "human-ness"), which often is translated as "humanity towards others" or "the belief in a universal bond of sharing that connects all humanity".
